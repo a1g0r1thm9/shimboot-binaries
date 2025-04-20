@@ -1,5 +1,5 @@
-name: build
-run-name: Build the static binaries
+name: build-arm64
+run-name: Build the static binaries for arm64
 on: [push]
 
 jobs:
